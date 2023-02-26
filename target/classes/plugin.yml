@@ -1,0 +1,5 @@
+name: MCP
+version: '1.0'
+main: me.superorca.mcp.MCP
+api-version: 1.19
+authors: [ SuperOrca ]
